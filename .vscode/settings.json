@@ -1,6 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "Hw3-3",
+        "Hw3-2",
+        "Hw3-1",
         "HelloWolrd/src",
-        "Hw3-1"
-    ]
+        "BaekJoon"
+    ],
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx4G -Xms100m"
 }
